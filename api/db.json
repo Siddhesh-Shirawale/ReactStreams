@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "Cristiano Ronaldo",
+      "description": "Portuguese football player. Currently plays for Juventus FC. Best player in world.",
+      "userId": "101841913195495363851",
+      "id": 5
+    },
+    {
+      "title": "navigation test",
+      "description": "test123",
+      "userId": "101841913195495363851",
+      "id": 6
+    }
+  ]
+}
